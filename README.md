@@ -7,7 +7,7 @@ An application used to pick colors, built with Vite, React, JavaScript, and CSS.
 ## Preview site
 https://col0r-picker.netlify.app/
 
-
+![alt text](https://iili.io/HJglCtn.png)
 
 
 
