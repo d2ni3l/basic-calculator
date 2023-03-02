@@ -2,9 +2,10 @@
 
 #### Col0r Picker 
 
-An application used to pick colors, built with Vite, React, JavaScript, and CSS.
+An application used to pick the perfect colors, built with Vite, React, JavaScript, and CSS.
 
 ## Preview site
+
 https://col0r-picker.netlify.app/
 
 ![alt text](https://iili.io/HJglCtn.png)
